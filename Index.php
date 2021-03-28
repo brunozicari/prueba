@@ -1,1 +1,1 @@
-<?php require_once("pndex.html") ?>
+<?php require_once("index.html") ?>
